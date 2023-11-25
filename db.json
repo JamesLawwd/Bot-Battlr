@@ -1,25 +1,4 @@
-### Bot Battlr
-   Bot Battlr is a React application that displays a list of bots, among other features.
-   ![checkpoint demo](https://curriculum-content.s3.amazonaws.com/phase-2/phase-2-hooks-code-challenge-bot-battlr/checkpoint_demo.gif)
-
-### Learning Goals
-   implementing a mini web app to practice on React:
-
-   .Components,
-   .Props,
-   .State,
-   .Events and Data fetching
-
-### Technologies used
-     The following have been used on this Project:
-     .HTML,
-     .CSS,
-     .JAVASCRIPT/REACT
-
-### Project Setup $ Pre-requisite Data
-    . In your directory, create a db.json file and use the json data below foryour server DB.
-
-    {
+{
     "bots": [
       {
         "id": 101,
@@ -321,7 +300,7 @@
         "created_at": "2018-10-02T19:55:11.303Z",
         "updated_at": "2018-10-02T19:55:11.303Z"
       },
-      
+      {
         "id": 126,
         "name": "l_]-00",
         "health": 75,
@@ -551,7 +530,7 @@
       },
       {
         "id": 145,
-        "name": "vU-90",
+        "name": "v[U-90",
         "health": 82,
         "damage": 35,
         "armor": 69,
@@ -1067,7 +1046,7 @@
       },
       {
         "id": 188,
-        "name": "W-40",
+        "name": "]W-40",
         "health": 80,
         "damage": 35,
         "armor": 75,
@@ -1221,13 +1200,5 @@
         "created_at": "2018-10-02T19:55:12.537Z",
         "updated_at": "2018-10-02T19:55:12.537Z"
       }
-    
-  
-  .Run this command to get backend started:json-server --watch db.json --port 8001.
-  .Test your server by visiting this route in the browser http://localhost:8001/bots
-
-  ### Authors
-    James Kinyanjui
-
-  ### Copyright
-    Mit License.
+    ]
+  }
